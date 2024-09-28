@@ -1,0 +1,7 @@
+node_modules
+<<<<<<< HEAD
+dist
+=======
+dist
+.env
+>>>>>>> a0f0d4a (university server part 2)
